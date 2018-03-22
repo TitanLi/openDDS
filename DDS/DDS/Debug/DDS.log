@@ -1,2 +1,3 @@
 ﻿  MyForm.cpp
+c:\users\titan\github\opendds\dds\dds\myform.cpp(11): warning C4930: 'DDS::MyForm setPri(int)': 未呼叫原型函式 (是否呼叫的是變數定義?
   DDS.vcxproj -> C:\Users\Titan\github\openDDS\DDS\Debug\DDS.exe

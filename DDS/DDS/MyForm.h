@@ -263,12 +263,14 @@ namespace DDS {
 				textBox_ini->Text = openFileDialog2->FileName;
 			}
 		}
+
 		private: System::Void button3_Click(System::Object^  sender, System::EventArgs^  e) {
 			String ^ msg = textBox_mesage->Text;
 			DateTime localDate = DateTime::Now;
 			if (msg != "") {
 				listBox1->Items->Add(localDate.ToString() + ": "+ msg);
 				textBox_mesage->Text = "";
+				//setPri(1);
 			}
 		}
 	};

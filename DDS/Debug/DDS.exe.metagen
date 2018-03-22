@@ -29,3 +29,5 @@ Assembly WindowsFormsIntegration, Version=4.0.0.0, Culture=neutral, PublicKeyTok
 Class DDS.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setPri(Int32): PrivateScope, Public, HideBySig
