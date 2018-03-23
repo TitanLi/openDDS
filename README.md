@@ -29,6 +29,6 @@ void Main(array<String^>^ args) {
 }
 ```
 ![專案3](https://github.com/TitanLi/openDDS/blob/master/picture/專案3.PNG)
-10. restart visual studio
+10. restart visual studio</br>
 11. Right click on the MyForm.h -> 設計工具顯示
 ![專案4](https://github.com/TitanLi/openDDS/blob/master/picture/專案4.PNG)
